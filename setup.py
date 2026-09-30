@@ -21,7 +21,7 @@ install_requires=[
   'scipy>=1.0.1',
   'biopython==1.73',
   'google-auth==2.18.1',
-  'oauthlib==3.2.2',
+  'oauthlib==4.0.0',
   'packaging>=18.0',
   'ont-fast5-api>=0.3.1',
   'wget>=3.2',
